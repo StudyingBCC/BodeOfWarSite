@@ -1,0 +1,198 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #F5F5F5;
+  font-family: consolas;
+}
+
+.logo{
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background-color: #BA060C;
+  padding-right: 50px;
+}
+
+.menu {
+  position: absolute;
+  top: 0px;
+  left:30%;
+  display: flex;
+  font-size: 80px;
+  background-color: #BA060C;
+  padding-right: 111px;
+  height: 134px;
+  line-height: 95px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.menu a {
+  display: block;
+  padding: 20px;
+  padding-right: 49px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu a:hover {
+  background-color: #6391A2;
+  color: white;
+  transition: background-color 0.5s;
+  cursor: -webkit-grab;
+  font-weight: bold;
+}
+
+.fotoInicial{
+  position: absolute;
+  top: 23%;
+  left: 0%;
+}
+
+.oJogo{
+  position: absolute;
+  top: 100%;
+  left: 0%;
+  background-color: #BA060C;
+  color: white;
+  padding-right: 49%;
+  padding-left: 43.2%;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.card{
+  position: absolute;
+  left: 0%;
+  top: 114%;
+  background-color: #b1bec3;
+  float: left;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.card img{
+  position: relative;
+  left: 5%;
+}
+
+.card p{
+  font-family: bebas neue, Candara, Helvetica, sans-serif;
+  display: block;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 20px;
+}
+
+.nossoJogo{
+  position: absolute;
+  top: 100%;
+  left: 0%;
+  background-color: #BA060C;
+  color: white;
+  padding-right: 36.5%;
+  padding-left: 39.2%;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.card2{
+  position: absolute;
+  left: 0%;
+  top: 111.5%;
+  background-color: #b1bec3;
+  float: left;
+  width: 100%;
+}
+
+.card2 h2{
+  text-align: center;
+}
+
+.nossaEstrategia{
+  position: absolute;
+  top: 428%;
+  left: 0%;
+  background-color: #BA060C;
+  color: white;
+  padding-right: 36.5%;
+  padding-left: 35.7%;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.card3{
+  position: absolute;
+  left: 0%;
+  top: 439%;
+  background-color: #b1bec3;
+  float: left;
+  width: 100.1%;
+}
+.card3 h2{
+  text-align: center;
+}
+
+.card3 img{
+  position: relative;
+  left: 9%;
+}
+
+.github{
+  position: absolute;
+  top: 521.1%;
+  left: 0%;
+  background-color: #BA060C;
+  color: white;
+  padding-right: 28.8%;
+  padding-left: 33%;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.card4{
+  position: absolute;
+  left: 0%;
+  top: 532%;
+  background-color: #b1bec3;
+  float: left;
+  width: 100.2%;
+}
+
+.card4 img{
+  position: relative;
+  left: 21%;
+}
+
+.card4 h2{
+  text-align: center;
+}
+
+.nos{
+  position: absolute;
+  top: 800%;
+  left: 0%;
+  background-color: #BA060C;
+  color: white;
+  padding-right: 49%;
+  padding-left: 47.5%;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.card5{
+  position: absolute;
+  left: 0%;
+  top: 814%;
+  background-color: #b1bec3;
+  float: left;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.card5 img{
+  position: relative;
+  left: 5%;
+  cursor: -webkit-grab;
+}
